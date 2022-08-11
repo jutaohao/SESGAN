@@ -1,0 +1,44 @@
+------------ Options -------------
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: GTSRB
+device: gpu
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+extralayers: 0
+gpu_ids: [0]
+isTrain: True
+isize: 32
+iter: 0
+load_weights: False
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: sesgan
+name: sesgan/GTSRB
+nc: 3
+ndf: 64
+ngf: 64
+ngpu: 1
+niter: 10
+niter_decay: 100
+normal_class: horse
+nz: 20
+outf: ./output
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_image_freq: 100
+save_test_images: False
+verbose: False
+w_adv: 0.5
+w_feat: 1
+workers: 8
+-------------- End ----------------

@@ -1,0 +1,13 @@
+================ Thu Aug 11 11:44:12 2022 ================
+stop_sign, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 4.987 AUC: 0.627 max AUC: 0.627
+   Avg Run Time (ms/batch): 5.414 AUC: 0.599 max AUC: 0.627
+   Avg Run Time (ms/batch): 4.559 AUC: 0.588 max AUC: 0.627
+   Avg Run Time (ms/batch): 4.844 AUC: 0.202 max AUC: 0.627
+   Avg Run Time (ms/batch): 4.702 AUC: 0.768 max AUC: 0.768
+   Avg Run Time (ms/batch): 4.702 AUC: 0.907 max AUC: 0.907
+   Avg Run Time (ms/batch): 4.987 AUC: 0.905 max AUC: 0.907
+   Avg Run Time (ms/batch): 4.986 AUC: 0.939 max AUC: 0.939
+   Avg Run Time (ms/batch): 5.130 AUC: 0.994 max AUC: 0.994
+   Avg Run Time (ms/batch): 4.844 AUC: 0.962 max AUC: 0.994

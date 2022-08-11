@@ -1,0 +1,130 @@
+================ Thu Aug 11 09:51:08 2022 ================
+airplane, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 20.505 AUC: 0.949 max AUC: 0.949
+   Avg Run Time (ms/batch): 22.131 AUC: 1.000 max AUC: 1.000
+   Avg Run Time (ms/batch): 22.151 AUC: 0.999 max AUC: 1.000
+   Avg Run Time (ms/batch): 13.095 AUC: 0.999 max AUC: 1.000
+   Avg Run Time (ms/batch): 22.410 AUC: 0.998 max AUC: 1.000
+   Avg Run Time (ms/batch): 23.150 AUC: 0.999 max AUC: 1.000
+   Avg Run Time (ms/batch): 13.559 AUC: 0.946 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.302 AUC: 0.983 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.182 AUC: 0.999 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.641 AUC: 0.999 max AUC: 1.000
+================ Thu Aug 11 09:53:20 2022 ================
+automobile, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 14.182 AUC: 0.875 max AUC: 0.875
+   Avg Run Time (ms/batch): 24.015 AUC: 0.991 max AUC: 0.991
+   Avg Run Time (ms/batch): 35.555 AUC: 0.999 max AUC: 0.999
+   Avg Run Time (ms/batch): 14.741 AUC: 0.972 max AUC: 0.999
+   Avg Run Time (ms/batch): 14.880 AUC: 0.986 max AUC: 0.999
+   Avg Run Time (ms/batch): 53.323 AUC: 0.973 max AUC: 0.999
+   Avg Run Time (ms/batch): 13.963 AUC: 0.396 max AUC: 0.999
+   Avg Run Time (ms/batch): 14.660 AUC: 0.991 max AUC: 0.999
+   Avg Run Time (ms/batch): 21.524 AUC: 0.968 max AUC: 0.999
+   Avg Run Time (ms/batch): 15.269 AUC: 0.997 max AUC: 0.999
+================ Thu Aug 11 09:55:39 2022 ================
+bird, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 13.504 AUC: 0.606 max AUC: 0.606
+   Avg Run Time (ms/batch): 13.969 AUC: 0.194 max AUC: 0.606
+   Avg Run Time (ms/batch): 17.872 AUC: 0.822 max AUC: 0.822
+   Avg Run Time (ms/batch): 18.012 AUC: 0.861 max AUC: 0.861
+   Avg Run Time (ms/batch): 17.762 AUC: 0.438 max AUC: 0.861
+   Avg Run Time (ms/batch): 17.503 AUC: 0.467 max AUC: 0.861
+   Avg Run Time (ms/batch): 17.364 AUC: 0.676 max AUC: 0.861
+   Avg Run Time (ms/batch): 46.127 AUC: 0.766 max AUC: 0.861
+   Avg Run Time (ms/batch): 18.401 AUC: 0.769 max AUC: 0.861
+   Avg Run Time (ms/batch): 18.082 AUC: 0.377 max AUC: 0.861
+================ Thu Aug 11 09:57:59 2022 ================
+cat, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 17.833 AUC: 0.331 max AUC: 0.331
+   Avg Run Time (ms/batch): 40.611 AUC: 0.735 max AUC: 0.735
+   Avg Run Time (ms/batch): 18.237 AUC: 0.637 max AUC: 0.735
+   Avg Run Time (ms/batch): 18.161 AUC: 0.613 max AUC: 0.735
+   Avg Run Time (ms/batch): 17.892 AUC: 0.674 max AUC: 0.735
+   Avg Run Time (ms/batch): 17.802 AUC: 0.618 max AUC: 0.735
+   Avg Run Time (ms/batch): 18.002 AUC: 0.394 max AUC: 0.735
+   Avg Run Time (ms/batch): 17.843 AUC: 0.902 max AUC: 0.902
+   Avg Run Time (ms/batch): 18.211 AUC: 0.469 max AUC: 0.902
+   Avg Run Time (ms/batch): 18.161 AUC: 0.108 max AUC: 0.902
+================ Thu Aug 11 10:00:08 2022 ================
+deer, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 17.623 AUC: 0.708 max AUC: 0.708
+   Avg Run Time (ms/batch): 17.722 AUC: 0.999 max AUC: 0.999
+   Avg Run Time (ms/batch): 19.970 AUC: 0.999 max AUC: 0.999
+   Avg Run Time (ms/batch): 19.259 AUC: 0.998 max AUC: 0.999
+   Avg Run Time (ms/batch): 19.894 AUC: 0.995 max AUC: 0.999
+   Avg Run Time (ms/batch): 18.687 AUC: 0.757 max AUC: 0.999
+   Avg Run Time (ms/batch): 20.156 AUC: 0.986 max AUC: 0.999
+   Avg Run Time (ms/batch): 19.737 AUC: 0.984 max AUC: 0.999
+   Avg Run Time (ms/batch): 19.288 AUC: 0.981 max AUC: 0.999
+   Avg Run Time (ms/batch): 19.298 AUC: 0.951 max AUC: 0.999
+================ Thu Aug 11 10:02:20 2022 ================
+dog, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 13.843 AUC: 0.810 max AUC: 0.810
+   Avg Run Time (ms/batch): 13.953 AUC: 0.156 max AUC: 0.810
+   Avg Run Time (ms/batch): 35.565 AUC: 0.951 max AUC: 0.951
+   Avg Run Time (ms/batch): 23.408 AUC: 0.822 max AUC: 0.951
+   Avg Run Time (ms/batch): 14.870 AUC: 0.220 max AUC: 0.951
+   Avg Run Time (ms/batch): 23.876 AUC: 0.779 max AUC: 0.951
+   Avg Run Time (ms/batch): 15.339 AUC: 0.089 max AUC: 0.951
+   Avg Run Time (ms/batch): 15.508 AUC: 0.915 max AUC: 0.951
+   Avg Run Time (ms/batch): 15.217 AUC: 0.818 max AUC: 0.951
+   Avg Run Time (ms/batch): 15.369 AUC: 0.681 max AUC: 0.951
+================ Thu Aug 11 10:04:21 2022 ================
+frog, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 16.456 AUC: 0.412 max AUC: 0.412
+   Avg Run Time (ms/batch): 17.189 AUC: 1.000 max AUC: 1.000
+   Avg Run Time (ms/batch): 17.364 AUC: 1.000 max AUC: 1.000
+   Avg Run Time (ms/batch): 16.902 AUC: 0.938 max AUC: 1.000
+   Avg Run Time (ms/batch): 17.363 AUC: 0.980 max AUC: 1.000
+   Avg Run Time (ms/batch): 15.608 AUC: 0.988 max AUC: 1.000
+   Avg Run Time (ms/batch): 16.266 AUC: 0.949 max AUC: 1.000
+   Avg Run Time (ms/batch): 15.528 AUC: 0.938 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.671 AUC: 0.999 max AUC: 1.000
+   Avg Run Time (ms/batch): 17.343 AUC: 1.000 max AUC: 1.000
+================ Thu Aug 11 10:06:26 2022 ================
+horse, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 11.757 AUC: 0.432 max AUC: 0.432
+   Avg Run Time (ms/batch): 17.373 AUC: 0.957 max AUC: 0.957
+   Avg Run Time (ms/batch): 16.266 AUC: 0.947 max AUC: 0.957
+   Avg Run Time (ms/batch): 16.456 AUC: 0.996 max AUC: 0.996
+   Avg Run Time (ms/batch): 15.474 AUC: 0.889 max AUC: 0.996
+   Avg Run Time (ms/batch): 17.224 AUC: 0.465 max AUC: 0.996
+   Avg Run Time (ms/batch): 16.945 AUC: 0.989 max AUC: 0.996
+   Avg Run Time (ms/batch): 16.446 AUC: 0.306 max AUC: 0.996
+   Avg Run Time (ms/batch): 16.436 AUC: 0.030 max AUC: 0.996
+   Avg Run Time (ms/batch): 17.074 AUC: 0.989 max AUC: 0.996
+================ Thu Aug 11 10:08:24 2022 ================
+ship, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 13.414 AUC: 0.961 max AUC: 0.961
+   Avg Run Time (ms/batch): 13.823 AUC: 0.999 max AUC: 0.999
+   Avg Run Time (ms/batch): 13.930 AUC: 0.998 max AUC: 0.999
+   Avg Run Time (ms/batch): 14.152 AUC: 0.999 max AUC: 0.999
+   Avg Run Time (ms/batch): 18.351 AUC: 1.000 max AUC: 1.000
+   Avg Run Time (ms/batch): 13.863 AUC: 0.999 max AUC: 1.000
+   Avg Run Time (ms/batch): 13.793 AUC: 0.972 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.601 AUC: 0.999 max AUC: 1.000
+   Avg Run Time (ms/batch): 13.661 AUC: 0.999 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.272 AUC: 1.000 max AUC: 1.000
+================ Thu Aug 11 10:10:17 2022 ================
+truck, 20, 0.5, 1
+
+   Avg Run Time (ms/batch): 11.808 AUC: 0.960 max AUC: 0.960
+   Avg Run Time (ms/batch): 14.292 AUC: 0.997 max AUC: 0.997
+   Avg Run Time (ms/batch): 13.713 AUC: 0.999 max AUC: 0.999
+   Avg Run Time (ms/batch): 14.230 AUC: 1.000 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.372 AUC: 1.000 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.232 AUC: 1.000 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.092 AUC: 0.994 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.472 AUC: 0.944 max AUC: 1.000
+   Avg Run Time (ms/batch): 14.242 AUC: 0.993 max AUC: 1.000
+   Avg Run Time (ms/batch): 11.689 AUC: 0.999 max AUC: 1.000
